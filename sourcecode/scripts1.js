@@ -1,7 +1,7 @@
-function getGreeting() {
+function getGreeting1() {
     return "Hello, World!";
 }
 
-function addNumbers(a, b) {
+function addNumbers1(a, b) {
     return a + b;
 }
