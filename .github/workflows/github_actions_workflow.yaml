@@ -22,5 +22,4 @@ jobs:
          args: >
             -Dsonar.projectKey=KazimAbusnaimeh_Sonar-Action-Test
             -Dsonar.organization=kazimabusnaimeh
-            -Dsonar.python.coverage.reportPaths=coverage.xml
 
