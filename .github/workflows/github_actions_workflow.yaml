@@ -21,6 +21,6 @@ jobs:
       with:
          args: >
             -Dsonar.projectKey=sonarqude
-            -Dsonar.organization="sonarqude"
+            -Dsonar.organization=kazimabusnaimeh
             -Dsonar.python.coverage.reportPaths=coverage.xml
 
